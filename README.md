@@ -62,7 +62,7 @@
 
 <div align='center'>
 
-## Achievement & Certification
+## Achievements & Certifications
 
 [<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504914.png?token=exp=1646756303~hmac=e610f67f17ece5633fd2e34e965ca881" alt="Google Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb8BgIbDc4B2XF9TRg?e=7AaM2L)            
 [<img src="https://i.ytimg.com/vi/iwK0FZdgx9k/maxresdefault.jpg" alt="Entrep' Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb59t1b5KA9t4yo9uw?e=GPbmuW)            
