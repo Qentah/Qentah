@@ -78,7 +78,7 @@ Few Student Jobs              ______🍃_ ENEDIS _⚡______    __📺_ ANSE Tech
 ```
 ## School & University Training
 ```diff                            
-Scientific Baccalaureate 👨‍🎓       📜Preparatory Class🖋️        👨‍💻Work-study Engineer👨‍🏫
+Scientific Baccalaureate 👨‍🎓       📜Preparatory Class🖋️      👨‍💻Work-study Engineer👨‍🏫
 --======================={ 2018 }======================{ 2020 }===========- - -{ 2023 }- - - - - - -{ Future }
 IT &                               Computer Science &          Embedded & 
 Digital System 💻                  Network 📶                 Communicating System 📻
