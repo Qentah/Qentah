@@ -50,10 +50,15 @@
 [![Outlook](https://img.shields.io/badge/Mail-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:henryq.pro@outlook.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue.svg?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/qentah)
 
+<img align='right' src='https://img.shields.io/badge/French-Natif-steelblue.svg'>
+<img align='right' src='https://img.shields.io/badge/English-B2-red.svg'>
+
+
+<div>
 👀 I'm a technology enthusiast</br>
 🌱 I'm constantly learning</br>
 💞️ I'm looking to share good experiences</br>
-</br>
+</div>
 
 <div align='center'>
 
