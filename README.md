@@ -4,7 +4,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'> Hello World ! I'm Quentin HENRY👨‍💻</br><img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width='625'>
 
-<img align='left' src='./gif.gif' width='220'>
+
 
 ![WebComponent](
     https://img.shields.io/badge/WebComponent-olivedrab.svg?logo=webcomponents.org&logoColor=white&style=flat-square)
@@ -16,6 +16,8 @@
     https://img.shields.io/badge/HTML-red.svg?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](
     https://img.shields.io/badge/CSS-steelblue.svg?logo=css3&logoColor=white&style=flat-square)
+
+<img align='left' src='./gif.gif' width='220'>
 
 ![WSL](
     https://img.shields.io/badge/WSL+SSH-white.svg?logo=hyper&logoColor=steelblue&style=flat-square)
@@ -35,6 +37,7 @@
     https://img.shields.io/badge/LXD-red.svg?logo=linuxcontainers&logoColor=white&style=flat-square)
 ![VSCode](
     https://img.shields.io/badge/Code-steelblue.svg?logo=visualstudiocode&logoColor=white&style=flat-square)
+    
 
 ![C](
     https://img.shields.io/badge/C-white.svg?logo=c&logoColor=steelblue&style=flat-square)
