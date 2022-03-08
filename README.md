@@ -85,3 +85,6 @@ Digital System 💻                  Network 📶                 Communicating 
 ```
 
 <img src="./snake.svg" />
+
+
+<p align="center">(♥_♥)</p>
