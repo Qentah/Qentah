@@ -87,5 +87,4 @@ Digital System 💻                  Network 📶                 Communicating 
 <!--END_SECTION:waka-->
 
 <img src="./snake.svg" />
-
 <p align="center">(♥_♥)</p>
