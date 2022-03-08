@@ -46,10 +46,9 @@
 
 </div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/_qentah)
 [![Outlook](https://img.shields.io/badge/Mail-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:henryq.pro@outlook.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue.svg?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/qentah)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=flat)]()
 
 👀 I'm a technology enthusiast</br>
 🌱 I'm constantly learning</br>
@@ -60,9 +59,9 @@
 
 ## Achievement & Certification
 
-[<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504914.png?token=exp=1646756303~hmac=e610f67f17ece5633fd2e34e965ca881" alt="Google Certification" height="35"/>]()            
-[<img src="https://i.ytimg.com/vi/iwK0FZdgx9k/maxresdefault.jpg" alt="Entrep' Certification" height="35"/>]()            
-[<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1646756505~hmac=ca1bc184f97826c8ed0c6685f64a851f" alt="Linkedin Certification" height="35"/>]()
+[<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504914.png?token=exp=1646756303~hmac=e610f67f17ece5633fd2e34e965ca881" alt="Google Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb8BgIbDc4B2XF9TRg?e=7AaM2L)            
+[<img src="https://i.ytimg.com/vi/iwK0FZdgx9k/maxresdefault.jpg" alt="Entrep' Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb59t1b5KA9t4yo9uw?e=GPbmuW)            
+[<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1646756505~hmac=ca1bc184f97826c8ed0c6685f64a851f" alt="Linkedin Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb8BgIbDc4B2XF9TRg?e=7AaM2L)
 
 </div>
 
