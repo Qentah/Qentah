@@ -53,14 +53,14 @@
 
 ### Professional Expériences
 ```diff                       
-Few Student Jobs              _____ ENEDIS ______________    _ ANSE Technology ________
-++==============={ 2020 }==========={ 2021 }==========={ 2022 }===========- - -{ 2023 }- -{ Future }
+Few Student Jobs              _________ ENEDIS __________    ____ ANSE Technology _____
+++==============={ 2020 }==========={ 2021 }==========={ 2022 }===========- - -{ 2023 }- - - - - - -{ Future }
 Bank & Bakery                Service Production Engineering    R&D Smart TV project
 ```
 ### School & University Training
 ```diff                            
 Scientific Baccalaureate           Preparatory Class           Work-study Engineer
---======================={ 2018 }======================{ 2020 }===========- - -{ 2023 }- -{ Future }
+--======================={ 2018 }======================{ 2020 }===========- - -{ 2023 }- - - - - - -{ Future }
 Specialization:                     Computer Science           Embedded & 
 IT & Digital System                 & Network                  Communicating System
 ```
