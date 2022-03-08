@@ -49,5 +49,20 @@
 👀 I'm a technology enthusiast</br>
 🌱 I'm constantly learning</br>
 💞️ I'm looking to share good experiences</br>
+</br>
+
+### Professional Expériences
+```diff                       
+Few Student Jobs              _____ ENEDIS ______________    _ ANSE Technology ________
+++==============={ 2020 }==========={ 2021 }==========={ 2022 }===========- - -{ 2023 }- -{ Future }
+Bank & Bakery                Service Production Engineering    R&D Smart TV project
+```
+### School & University Training
+```diff                            
+Scientific Baccalaureate           Preparatory Class           Work-study Engineer
+--======================={ 2018 }======================{ 2020 }===========- - -{ 2023 }- -{ Future }
+Specialization:                     Computer Science           Embedded & 
+IT & Digital System                 & Network                  Communicating System
+```
 
 <img align="center" src="./snake.svg" />
