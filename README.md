@@ -9,12 +9,12 @@
 ![C++](
     https://img.shields.io/badge/C++-steelblue.svg?logo=c%2B%2B&logoColor=white&style=flat-square)
 
-![Ionic](
-    https://img.shields.io/badge/Ionic-white.svg?logo=Ionic&logoColor=steelblue&style=flat-square)
 ![WebComponent](
     https://img.shields.io/badge/WebComponent-olivedrab.svg?logo=webcomponents.org&logoColor=white&style=flat-square)
 ![JavaScript](
     https://img.shields.io/badge/JavaScript-gold.svg?logo=javascript&logoColor=white&style=flat-square) 
+![Ionic](
+    https://img.shields.io/badge/Ionic-white.svg?logo=Ionic&logoColor=steelblue&style=flat-square)
 ![HTML5](
     https://img.shields.io/badge/HTML-red.svg?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](
@@ -26,14 +26,14 @@
     https://img.shields.io/badge/Code-steelblue.svg?logo=visualstudiocode&logoColor=white&style=flat-square)
 
 ![GitHub](
-    https://img.shields.io/badge/GitHub-black.svg?logo=github&logoColor=white&style=flat-square)
+    https://img.shields.io/badge/GitHub-white.svg?logo=github&logoColor=steelblue&style=flat-square)
 ![Git](
     https://img.shields.io/badge/Git-red.svg?logo=git&logoColor=white&style=flat-square)
 ![Azure](
     https://img.shields.io/badge/DevOps-steelblue.svg?logo=microsoftazure&logoColor=white&style=flat-square)
 
 ![WSL](
-    https://img.shields.io/badge/WSL+SSH-white.svg?logo=hyper&logoColor=black&style=flat-square)
+    https://img.shields.io/badge/WSL+SSH-white.svg?logo=hyper&logoColor=steelblue&style=flat-square)
 ![Ubuntu](
     https://img.shields.io/badge/Ubuntu-red.svg?logo=ubuntu&logoColor=white&style=flat-square)
 ![Windows](
