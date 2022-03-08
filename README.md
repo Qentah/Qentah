@@ -64,7 +64,7 @@
 [<img src="https://i.ytimg.com/vi/iwK0FZdgx9k/maxresdefault.jpg" alt="Entrep' Certification" height="35"/>]()            
 [<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1646756505~hmac=ca1bc184f97826c8ed0c6685f64a851f" alt="Linkedin Certification" height="35"/>]()
 
-</br>
+</div>
 
 ## Professional Expériences
 ```diff                       
@@ -83,4 +83,3 @@ Digital System 💻                  Network 📶                 Communicating 
 ```
 
 <img src="./snake.svg" />
-</div>
