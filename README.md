@@ -48,7 +48,75 @@
 
 👀 I'm a technology enthusiast</br>
 🌱 I'm constantly learning</br>
-💞️ I'm looking to share good experiences</br>
+💞️ I'm looking to share good experiences
+</br>
+</br>
 
+<ul class="timeline">
+	<li data-year="2018" data-text="Scientific Baccalaureate in IT and Digital System'"></li>
+	<li data-year="2020" data-text="Integrated Preparatory Class"></li>
+	<li data-year="2023" data-text="Work-study engineer"></li>
+	<li data-year="Future" data-text=""></li>
+</ul>
+
+<style>
+    .timeline {
+        width:700px;
+        height: 20px;
+        list-style: none;
+        text-align: justify;
+        margin: 80px auto;
+        background: linear-gradient(to bottom, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 45%, steelblue 51%, rgba(255,255,255,0) 57%, rgba(255,255,255,0) 100%);
+    }
+    .timeline:after {
+    display: inline-block;
+    content: "";
+    width: 100%;
+    }
+    .timeline li {
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	background: white;
+	text-align: center;
+	line-height: 1;
+	position: relative;
+	border-radius: 50%;
+    }
+    .timeline li:before {
+        display: inline-block;
+        content: attr(data-year);
+        font-size: 18px;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .timeline li:nth-child(odd):before {
+        font-weight: bold;
+	    top: -30px;
+    }
+    .timeline li:nth-child(even):before {
+        font-weight: bold;
+        bottom: -30px;
+    }
+    .timeline li:after {
+	display: inline-block;
+	content: attr(data-text);
+	font-size: 14px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+    }
+    .timeline li:nth-child(odd):after {
+	bottom: 0;
+	margin-bottom: -10px;
+	transform: translate(-50%, 100%);
+    }
+    .timeline li:nth-child(even):after {
+        top: 0;
+        margin-top: -10px;
+        transform: translate(-50%, -100%);
+    }
+</style>
 
 <img align="center" src="./snake.svg" />
