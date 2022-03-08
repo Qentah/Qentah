@@ -53,7 +53,6 @@
 <img align='right' src='https://img.shields.io/badge/French-Natif-steelblue.svg'>
 <img align='right' src='https://img.shields.io/badge/English-B2-red.svg'>
 
-
 <div>
 👀 I'm a technology enthusiast</br>
 🌱 I'm constantly learning</br>
@@ -84,7 +83,9 @@ IT &                               Computer Science &          Embedded &
 Digital System 💻                  Network 📶                 Communicating System 📻
 ```
 
-<img src="./snake.svg" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<img src="./snake.svg" />
 
 <p align="center">(♥_♥)</p>
