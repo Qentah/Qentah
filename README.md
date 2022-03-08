@@ -76,8 +76,6 @@ Few Student Jobs              ______🍃_ ENEDIS _⚡______    __📺_ ANSE Tech
 ++==============={ 2020 }==========={ 2021 }==========={ 2022 }===========- - -{ 2023 }- - - - - - -{ Future }
 🪙Bank & Bakery🥖           Service Production Engineering    R&D Smart TV project
 ```
-</br>
-
 ## School & University Training
 ```diff                            
 Scientific Baccalaureate 👨‍🎓       📜Preparatory Class🖋️        👨‍💻Work-study Engineer👨‍🏫
