@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Qentah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src='./left.png' width='200'>
 
-<!---
-Qentah/Qentah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p style="font-size:x-large">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px">
+Hello World! I'm Quentin HENRY👨‍💻
+<img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif">
+</p>
+
+- 👀 I'm a technology enthusiast
+- 🌱 I'm constantly learning
+- 💞️ I'm looking to share good times
+
