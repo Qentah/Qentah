@@ -4,6 +4,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'> Hello World ! I'm Quentin HENRY👨‍💻</br><img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width='625'>
 
+<img align='left' src='./gif.gif' width='250'>
+
 ![WebComponent](
     https://img.shields.io/badge/WebComponent-olivedrab.svg?logo=webcomponents.org&logoColor=white&style=flat-square)
 ![JavaScript](
