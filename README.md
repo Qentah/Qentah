@@ -51,7 +51,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-steelblue.svg?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/qentah)
 
 <img align='right' src='https://img.shields.io/badge/French-Natif-steelblue.svg'>
-<img align='right' src='https://img.shields.io/badge/English-B2-red.svg'>
+<img align='right' src='https://img.shields.io/badge/English-TOEIC:B2-red.svg'>
 
 <div>
 👀 I'm a technology enthusiast</br>
