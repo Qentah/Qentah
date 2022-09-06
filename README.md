@@ -1,4 +1,10 @@
-<img align='right' src='./avatar.png' width='200' height='370' style="object-fit: contain;">
+<style>
+.avatar {
+    object-fit: contain;
+}
+</style>
+
+<img align='right' src='./avatar.png' width='200' height='370' class="avatar">
 
 <div align='right'>
 
