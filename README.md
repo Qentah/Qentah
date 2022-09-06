@@ -1,4 +1,4 @@
-<img align='right' src='./avatar.png' width='230'>
+<img align='right' src='./avatar.png' width='210'>
 
 <div align='right'>
 
