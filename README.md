@@ -4,8 +4,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='30'> Hello World ! I'm Quentin HENRY👨‍💻</br><img src="https://raw.githubusercontent.com/itstommi/itstommi/main/Rainbow.gif" width='625'>
 
-![WebComponent](https://img.shields.io/badge/WebComponent-olivedrab.svg?logo=webcomponents.org&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-gold.svg?logo=javascript&logoColor=white&style=flat-square)
+![WebComponent](https://img.shields.io/badge/WebComponent-grey.svg?logo=webcomponents.org&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-steelblue.svg?logo=typescript&logoColor=white&style=flat-square)
 ![Ionic](https://img.shields.io/badge/Ionic-white.svg?logo=Ionic&logoColor=steelblue&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML-red.svg?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS-steelblue.svg?logo=css3&logoColor=white&style=flat-square)
