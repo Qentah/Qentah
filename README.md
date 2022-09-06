@@ -1,4 +1,4 @@
-<img align='right' src='./avatar.png' width='200'>
+<img align='right' src='./avatar.png' width='230'>
 
 <div align='right'>
 
@@ -10,7 +10,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-red.svg?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS-steelblue.svg?logo=css3&logoColor=white&style=flat-square)
 
-<img align='left' src='./gif.gif' width='300'>
+<img align='left' src='./gif.gif' width='220'>
 
 ![WebToken](https://img.shields.io/badge/WebToken-white.svg?logo=jsonwebtokens&logoColor=steelblue&style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-red.svg?logo=Supabase&logoColor=white&style=flat-square)
