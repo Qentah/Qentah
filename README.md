@@ -6,7 +6,7 @@
 
 ![WebComponent](https://img.shields.io/badge/WebComponent-grey.svg?logo=webcomponents.org&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-steelblue.svg?logo=typescript&logoColor=white&style=flat-square)
-![Ionic](https://img.shields.io/badge/Ionic-white.svg?logo=Ionic&logoColor=steelblue&style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-white.svg?logo=Ionic&logoColor=steelblue&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML-red.svg?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS-steelblue.svg?logo=css3&logoColor=white&style=flat-square)
 
@@ -49,9 +49,9 @@
 
 ## Achievements & Certifications
 
-[<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504914.png?token=exp=1646756303~hmac=e610f67f17ece5633fd2e34e965ca881" alt="Google Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb8BgIbDc4B2XF9TRg?e=7AaM2L)            
-[<img src="https://i.ytimg.com/vi/iwK0FZdgx9k/maxresdefault.jpg" alt="Entrep' Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb59t1b5KA9t4yo9uw?e=GPbmuW)            
-[<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1646756505~hmac=ca1bc184f97826c8ed0c6685f64a851f" alt="Linkedin Certification" height="35"/>](https://1drv.ms/b/s!Ake3GJH9fYGlgb8BgIbDc4B2XF9TRg?e=7AaM2L)
+[<img src="https://www.reliablesoft.net/wp-content/uploads/2020/11/google-digital-marketing-online-course.png" alt="Google Certification" height="35"/>]()            
+[<img src="https://i.ytimg.com/vi/iwK0FZdgx9k/maxresdefault.jpg" alt="Entrep' Certification" height="35"/>]()            
+[<img src="https://onlinedegrees.sandiego.edu/wp-content/uploads/2020/09/NetworkAdmin-Blog-Header.jpeg" alt="Linkedin Certification" height="35"/>]()
 
 </div>
 
