@@ -6,7 +6,7 @@
 
 ![WebComponent](https://img.shields.io/badge/WebComponent-grey.svg?logo=webcomponents.org&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-steelblue.svg?logo=typescript&logoColor=white&style=flat-square)
-![PWA](https://img.shields.io/badge/PWA-white.svg?logo=Ionic&logoColor=steelblue&style=flat-square)
+![PWA](https://img.shields.io/badge/PWA-white.svg?logo=PWA&logoColor=steelblue&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML-red.svg?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS-steelblue.svg?logo=css3&logoColor=white&style=flat-square)
 
