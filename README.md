@@ -58,18 +58,18 @@
 ## Professional Expériences
 
 ```diff
-Few Student Jobs              ______🍃_ ENEDIS _⚡______    __📺_ ANSE Technology _🤳___
-++==============={ 2020 }==========={ 2021 }==========={ 2022 }===========- - -{ 2023 }- - - - - - -{ Future }
-🪙Bank & Bakery🥖           Service Production Engineering    R&D Smart TV project
+  ______🍃_ ENEDIS _⚡______    __📺_ ANSE Technology _🤳__  __🤖_ EDEN Partenaire _👴__  __ YACK __
+++========={ 2021 }==========={ 2022 }==========={ 2023 }==========={ 2024 }==========={ 2025 }- - -{ Future }
+Service Production Engineering       R&D 5G Smart TV               CTO AI Station        SI/IT Project Leader
 ```
 
 ## School & University Training
 
 ```diff
 Scientific Baccalaureate 👨‍🎓       📜Preparatory Class🖋️      👨‍💻Work-study Engineer👨‍🏫
---======================={ 2018 }======================{ 2020 }===========- - -{ 2023 }- - - - - - -{ Future }
-IT &                               Computer Science &          Embedded &
-Digital System 💻                  Network 📶                 Communicating System 📻
+--======================={ 2018 }======================{ 2020 }=================={ 2023 }======= - -{ Future }
+IT &                               Computer Science &          Embedded &                  Tech Business
+Digital System 💻                  Network 📶                 Communicating System 📻     Engineer 💱
 ```
 
 <!--START_SECTION:waka-->
